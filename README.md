@@ -7,7 +7,6 @@ A real-time Python desktop application that tracks currency exchange rates and c
 ## 🚀 Features
 
 * **Real-time Rates:** Fetches live and accurate currency exchange data.
-* **Interactive GUI:** Built with Python's Tkinter for a clean, intuitive user experience.
 * **Instant Conversion:** Convert between major global currencies seamlessly.
 * **Lightweight & Fast:** Minimal dependencies and quick response time.
 
