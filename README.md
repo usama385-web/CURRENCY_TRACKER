@@ -4,7 +4,7 @@ A real-time Python desktop application that tracks currency exchange rates and c
 
 ---
 
-## 🚀 Features
+##🚀 Features
 
 * **Real-time Rates:** Fetches live and accurate currency exchange data.
 * **Instant Conversion:** Convert between major global currencies seamlessly.
